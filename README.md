@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Melih Can 🎇<br/>
+My name is Melih Can 💎 <br/>
 I'm 20 years old 🎂<br/>
 I'm currently student Computer Programming at Selcuk University 🏫<br/>
 I want to become Full Stack Developer 📌 <br/>
-Hobbies: Ethical Hacking, Listening Music , Reading Books , Watching Movies etc. 🎬🎵📗💻 <br/>
+Hobbies: Ethical Hacking, Listening Music , Reading Books , Watching Movies etc. 🔓🎬🎵📗💻 <br/>
