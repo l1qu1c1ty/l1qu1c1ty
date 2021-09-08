@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Melih Can
-I'm 20 years old 🎂
-I'm currently student Computer Programming at Selcuk University 🏫
-I want to become Full Stack Developer 📌
-Hobbies: Ethical Hacking, Listening Music , Reading Books , Watching Movies etc. 🎬🎵📗💻
+My name is Melih Can    
+I'm 20 years old 🎂      
+I'm currently student Computer Programming at Selcuk University 🏫    
+I want to become Full Stack Developer 📌    
+Hobbies: Ethical Hacking, Listening Music , Reading Books , Watching Movies etc. 🎬🎵📗💻   
