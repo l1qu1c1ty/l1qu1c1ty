@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Welcome to my Github Profile 📀 <br/>
-My name is Melih Can 💎 <br/>
+## Welcome to my Github Profile 📀
+My name is Melih Can 💎<br/>
 I'm 20 years old 🎂<br/>
 I'm currently student Computer Programming at Selcuk University 🏫<br/>
 I want to become Full Stack Developer 📌 <br/>
