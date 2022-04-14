@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 ## Welcome to my Github Profile 📀
 My name is Melih Can 💎<br/>
-I'm 20 years old 🎂<br/>
+I'm 21 years old 🎂<br/>
 I'm currently student Computer Programming at Selcuk University 🏫<br/>
-Hobbies: Ethical Hacking, Listening Music , Reading Books , Watching Movies etc. 🔓🎬🎵📗💻 <br/>
