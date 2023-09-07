@@ -23,19 +23,3 @@ I'm having fun learning code.  🎡 <br/>
 I am learning to code while having fun. 🎠 <br/>
 
 # Skills : Moderate Python Programming , Creating C# Form App , Linux Bash commands , Ai prompt engineering , Basic Network Knowledge , self.learner(self.coder, self.programmer)<br/>
-
-class Liquicity(Planet):<br/>
-    <p>&nbspdef __init__(self, name , age , coder):<br/></p>
-        <p>&nbspself.name = name<br/></p>
-        <p>&nbspself.age  = age<br/></p>
-        <p>&nbspself.coder = coder<br/></p>
-
-   <p>&nbspdef info_l1qu1c1ty(self):<br/></p>
-       <p>&nbspprint(self.name)<br/></p>
-       <p>&nbspprint(self.age)<br/></p>
-       <p>&nbspprint(self.coder<br/></p>
-
-name = input()<br/>
-age = input()<br/>
-coder = "Python"<br/>
-liquicity = Liquicity(name, age, coder)<br/>
