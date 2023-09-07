@@ -23,10 +23,17 @@ I'm having fun learning code. 🎡
 I am learning to code while having fun. 🎠 <br/>
 
 # Skills
-  * Python Certificate Sololearn Beginner and Intermediate (data types and variables, conditional statements, functions, iteration, and control statements.)
-  * Moderate Python Programming (OOP , class , method , Inheritance , Abstraction , Encapsulation , Polymorphism , Composition) 
+  * Python Certificate Sololearn Beginner and Intermediate
+     - (data types and variables, conditional statements, functions, iteration, and control statements.)
+  * Moderate Python Programming
+     - (OOP , class , method , Inheritance , Abstraction , Encapsulation , Polymorphism , Composition) 
   * Creating C# Form App
+     - .NET Framework and .NET Core
   * Linux Bash commands
+     - root@liquicity $ ls
   * Ai prompt engineering
+     - Chatgpt , Midjourney , Dall-E , Bard , Bing Ai
   * Basic Network Knowledge
+     - OSI Model , TCP-IP , Server-Client , Routers , Wireshark Analyzes
   * self.learner(self.coder, self.programmer)
+     - liquicity self learner because he knows no one will teach him anything
