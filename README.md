@@ -24,18 +24,18 @@ I am learning to code while having fun. 🎠 <br/>
 
 # Skills : Moderate Python Programming , Creating C# Form App , Linux Bash commands , Ai prompt engineering , Basic Network Knowledge , self.learner(self.coder, self.programmer)<br/>
 
-class Liquicity(Planet):
-    def __init__(self, name , age , coder):
-        self.name = name
-        self.age  = age
-        self.coder = coder
+class Liquicity(Planet):<br/>
+    def __init__(self, name , age , coder):<br/>
+        self.name = name<br/>
+        self.age  = age<br/>
+        self.coder = coder<br/>
 
-   def info_l1qu1c1ty(self):
-       print(self.name)
-       print(self.age)
-       print(self.coder
+   def info_l1qu1c1ty(self):<br/>
+       print(self.name)<br/>
+       print(self.age)<br/>
+       print(self.coder<br/>
 
-name = input()
-age = input()
-coder = "Python"
-liquicity = Liquicity(name, age, coder)
+name = input()<br/>
+age = input()<br/>
+coder = "Python"<br/>
+liquicity = Liquicity(name, age, coder)<br/>
