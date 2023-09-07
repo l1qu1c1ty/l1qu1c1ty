@@ -23,7 +23,8 @@ I'm having fun learning code. 🎡
 I am learning to code while having fun. 🎠 <br/>
 
 # Skills
-  * Moderate Python Programming
+  * Python Certificate Sololearn Beginner and Intermediate (data types and variables, conditional statements, functions, iteration, and control statements.)
+  * Moderate Python Programming (OOP , class , method , Inheritance , Abstraction , Encapsulation , Polymorphism , Composition) 
   * Creating C# Form App
   * Linux Bash commands
   * Ai prompt engineering
