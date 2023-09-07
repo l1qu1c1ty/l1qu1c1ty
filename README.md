@@ -23,9 +23,9 @@ I'm having fun learning code. 🎡
 I am learning to code while having fun. 🎠 <br/>
 
 # Skills
-# Moderate Python Programming , 
-# Creating C# Form App , 
-# Linux Bash commands , 
-# Ai prompt engineering , 
-# Basic Network Knowledge , 
-# self.learner(self.coder, self.programmer)<br/>
+# Moderate Python Programming
+# Creating C# Form App
+# Linux Bash commands
+# Ai prompt engineering
+# Basic Network Knowledge
+# self.learner(self.coder, self.programmer)
