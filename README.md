@@ -25,15 +25,15 @@ I am learning to code while having fun. 🎠 <br/>
 # Skills : Moderate Python Programming , Creating C# Form App , Linux Bash commands , Ai prompt engineering , Basic Network Knowledge , self.learner(self.coder, self.programmer)<br/>
 
 class Liquicity(Planet):<br/>
-    &emspdef __init__(self, name , age , coder):<br/>
-        &emspself.name = name<br/>
-        &emspself.age  = age<br/>
-        &emspself.coder = coder<br/>
+    <p>&nbspdef __init__(self, name , age , coder):<br/></p>
+        <p>&nbspself.name = name<br/></p>
+        <p>&nbspself.age  = age<br/></p>
+        <p>&nbspself.coder = coder<br/></p>
 
-   &emspdef info_l1qu1c1ty(self):<br/>
-       &emspprint(self.name)<br/>
-       &emspprint(self.age)<br/>
-       &emspprint(self.coder<br/>
+   <p>&nbspdef info_l1qu1c1ty(self):<br/></p>
+       <p>&nbspprint(self.name)<br/></p>
+       <p>&nbspprint(self.age)<br/></p>
+       <p>&nbspprint(self.coder<br/></p>
 
 name = input()<br/>
 age = input()<br/>
