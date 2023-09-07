@@ -21,5 +21,21 @@ I am a Graduate Computer Programming at Selcuk University 🏫<br/>
 I am study at Konya Technical University in Nuclear Technology and Radiation Safety ☢️<br/>
 I'm having fun learning code.  🎡 <br/>          
 I am learning to code while having fun. 🎠 <br/>
-Skills : Moderate Python Programming , Creating C# Form App , Linux Bash commands , Ai prompt engineering , Basic Network Knowledge , self.learner(self.coder, self.programmer)<br/>
- 
+
+# Skills : Moderate Python Programming , Creating C# Form App , Linux Bash commands , Ai prompt engineering , Basic Network Knowledge , self.learner(self.coder, self.programmer)<br/>
+
+class Liquicity(Planet):
+    def __init__(self, name , age , coder):
+        self.name = name
+        self.age  = age
+        self.coder = coder
+
+   def info_l1qu1c1ty(self):
+       print(self.name)
+       print(self.age)
+       print(self.coder
+
+name = input()
+age = input()
+coder = "Python"
+liquicity = Liquicity(name, age, coder)
