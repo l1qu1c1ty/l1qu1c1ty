@@ -34,7 +34,7 @@ I am learning to code while having fun. 🎠 <br/>
   * Linux Bash commands
      - root@liquicity $ ls
   * Ai prompt engineering
-     - Chatgpt , Midjourney , Dall-E , Bard , Bing Ai
+     - Chatgpt , Midjourney , Dall-E , Bard , Bing Ai, Stable Diffusion
   * Basic Network Knowledge
      - OSI Model , TCP-IP , Server-Client , Routers , Wireshark Analyzes
   * self.learner(self.coder, self.programmer)
