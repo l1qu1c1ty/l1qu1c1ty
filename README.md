@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 Welcome to Planet of the Liquicity 💎<br/>
 I'm 23 years old 🎂<br/>
 I am a Graduate Computer Programming at Selcuk University 🏫<br/>
-I am study at Konya Technical University in Nuclear Technology and Radiation Safety ☢️<br/>
+I am study at Konya Technical University in Nuclear Technology and Radiation Safety 1/2 ☢️<br/>
+I am study at Eskisehir Anadolu University in Information Management Systems 3/4 💻<br/>
 I'm having fun learning code. 🎡    
 I am learning to code while having fun. 🎠 <br/>
 
