@@ -27,7 +27,8 @@ I am learning to code while having fun. 🎠 <br/>
   * Python Certificate Sololearn Beginner and Intermediate
      - (data types and variables, conditional statements, functions, iteration, and control statements.)
   * Moderate Python Programming
-     - (OOP , class , method , Inheritance , Abstraction , Encapsulation , Polymorphism , Composition) 
+     - (OOP , class , method , Inheritance , Abstraction , Encapsulation , Polymorphism , Composition)
+  * Ethical Hacking and Kali Linux Certificate
   * Creating C# Form App
      - .NET Framework and .NET Core
   * Linux Bash commands
