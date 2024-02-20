@@ -29,6 +29,7 @@ I am learning to code while having fun. 🎠 <br/>
   * Moderate Python Programming
      - (OOP , class , method , Inheritance , Abstraction , Encapsulation , Polymorphism , Composition)
   * Ethical Hacking and Kali Linux Certificate
+     - (Wireless Pentesting, Social Engineering, Backdoors, Scripts, RootKits, Pentesting 101 , NMAP, Veil, Metasploit)
   * Creating C# Form App
      - .NET Framework and .NET Core
   * Linux Bash commands
