@@ -38,5 +38,3 @@ I am learning to code while having fun. 🎠 <br/>
      - Chatgpt , Midjourney , Dall-E , Bard , Bing Ai, Stable Diffusion
   * Basic Network Knowledge
      - OSI Model , TCP-IP , Server-Client , Routers , Wireshark Analyzes
-  * self.learner(self.coder, self.programmer)
-     - liquicity self learner because he knows no one will teach him anything
