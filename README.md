@@ -39,4 +39,4 @@ I am learning to code while having fun. 🎠 <br/>
   * Basic Network Knowledge
      - OSI Model , TCP-IP , Server-Client , Routers , Wireshark Analyzes
   * Android Development
-     - ListView, RecyclerView, SearchAdapter, *ApkBackup* , EditText, TextView, Java Programming
+     - ListView, RecyclerView, SearchAdapter, *ApkBackup* , EditText, TextView, Java Programming, SharedPreferences, Room
