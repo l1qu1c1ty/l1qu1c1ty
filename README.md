@@ -38,3 +38,5 @@ I am learning to code while having fun. 🎠 <br/>
      - Chatgpt , Midjourney , Dall-E , Bard , Bing Ai, Stable Diffusion
   * Basic Network Knowledge
      - OSI Model , TCP-IP , Server-Client , Routers , Wireshark Analyzes
+  * Android Development
+     - ListView, RecyclerView, SearchAdapter, *ApkBackup* , EditText, TextView, Java Programming
